@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-
+<!-- <! -- GET , POST ,REQUEST --> -->
     <h1>Super Golobal Variables</h1>
   <form action="./submit.php" method="POST">
     <input type="name" name="name" placeholder="Enter your name" required>
